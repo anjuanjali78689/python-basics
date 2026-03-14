@@ -2,7 +2,7 @@
 Python basics practice including variables, data types, operators, and input/output programs.
 
 ## Variable
-1. Write a Python program to create a variable name and store your name in it. Print the variable.
+1.Write a Python program to create a variable name and store your name in it. Print the variable.
 
    ```python
     name = "Anjali"
@@ -15,7 +15,7 @@ Python basics practice including variables, data types, operators, and input/out
     num2 = int (input("enter the number"))
     print(num1+ num2)
    ```
-3. Swap two variables without using a third variable.
+3.Swap two variables without using a third variable.
 
    ```python
     a = int(input("enter a value : "))
