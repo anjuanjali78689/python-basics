@@ -34,7 +34,7 @@ Python basics practice including variables, data types, operators, and input/out
   ```
 
 ### Data Types
-1. Write a program to check the data type of the following:
+1.Write a program to check the data type of the following:
 25
 "Hello"
 3.14
