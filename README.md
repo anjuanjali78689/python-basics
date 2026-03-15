@@ -67,3 +67,11 @@ True
    a = input("enter the integer value")
    print(float(a))
   ```
+2.Convert a string "100" into integer and also write code to check  current and coverted data type
+
+ ```python
+  a ="100"
+  b=int(a)
+  print(type(a),b,type(b),sep="\n")
+ ```
+
