@@ -1,7 +1,7 @@
 # python-basics
 Python basics practice including variables, data types, operators, and input/output programs.
 
-## Variable
+## Variable -- variale is a container that store the data
 1.Write a Python program to create a variable name and store your name in it. Print the variable.
 
    ```python
@@ -33,7 +33,7 @@ Python basics practice including variables, data types, operators, and input/out
    print("My name is",a,"age is",b,"and live in",c)
   ```
 
-### Data Types
+### Data Types ::  defines the type of data stored in variable
 1.Write a program to check the data type of the following:
 25
 "Hello"
