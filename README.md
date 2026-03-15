@@ -53,7 +53,7 @@ True
   String
   Boolean
 
-  ```pyhon
+  ```python
    num1=10
    num2=3.14
    name="Python"
