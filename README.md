@@ -47,3 +47,16 @@ True
    val = True
    print(type(num1),"\n",type(name),"\n",type(num2),"\n",type(val))
   ```
+2.Create variables of these types:
+  Integer
+  Float
+  String
+  Boolean
+
+  ```pyhon
+   num1=10
+   num2=3.14
+   name="Python"
+   val=False
+   print( num1,num2,name,val,sep ="\n")
+  ```
