@@ -83,4 +83,18 @@ True
  c=int(a%b)
  print(c)
 ```
+2.Write a program to calculate the square of a number.
+
+  code1:
+   ```python
+    n = int(input("enter n vlaue : "))
+    c=n**2
+    print(c)
+   ```
+  code2:
+  ```python
+   n = int(input("enter n vlaue : "))
+   c=n*n
+   print(c)
+  ```
 
