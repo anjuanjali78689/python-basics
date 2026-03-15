@@ -60,3 +60,10 @@ True
    val=False
    print( num1,num2,name,val,sep ="\n")
   ```
+# Conversion
+1.Convert an integer into float and print it.
+
+  ```Python
+   a = input("enter the integer value")
+   print(float(a))
+  ```
