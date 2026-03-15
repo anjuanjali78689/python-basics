@@ -74,4 +74,13 @@ True
   b=int(a)
   print(type(a),b,type(b),sep="\n")
  ```
+# Operators
+1.Find the remainder of 2 numbers
+
+```python
+ a=int(input("enter a value"))
+ b=int(input("enter b value"))
+ c=int(a%b)
+ print(c)
+```
 
